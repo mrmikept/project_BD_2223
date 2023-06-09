@@ -1,0 +1,10 @@
+(Contribuinte, Nome, DataNascimento, Genero, Cargo, Salario, IBAN, Rua, Localidade, CodigoPostal, Email, Estação)
+"508720163","Ana Silva","1989-05-17","F","0","4800.00","PT86145020100000000123402","Rua do Cão","Porto","4014-301","ana.silva@example.com","1"
+"621905478","Pedro Santos","1993-11-07","M","2","2900.50","PT92654321098765432109876","Avenida Abril","Guimarães","4800-001","pedro.santos@example.com","2"
+"274689354","Sofia Almeida","1996-08-22","F","1","2200.75","PT77543210983210765409873","Praça do Grão","Porto","4050-002","sofia.almeida@example.com","3"
+"935467810","João Oliveira","1986-03-03","M","2","3600.25","PT99210954327654098732106","Avenida Bela","Lisboa","1150-004","joao.oliveira@example.com","1"
+"362809145","Mariana Costa","1992-01-14","F","0","2800.15","PT33210987656543098743214","Rua Campos","Lisboa","1000-001","mariana.costa@example.com","2"
+"758914623","André Santos","1994-06-28","M","2","2500.75","PT88109843217654210909872","Rua das Azáleas","Guimarães","4800-002","andre.santos@example.com","3"
+"496173802","Carla Rodrigues","1990-09-05","F","1","3300.50","PT45543221090987765432108","Rua da Fonte","Porto","4100-003","carla.rodrigues@example.com","1"
+"817059346","Luís Pereira","1988-10-18","M","0","4200.00","PT22876509875432321021091","Avenida Central","Lisboa","1050-002","luis.pereira@example.com","3"
+"203541987","Isabel Fernandes","1995-12-10","F","1","3000.50","PT66098776544321210954327","Praça da República","Lisboa","1100-003","isabel.fernandes@example.com","2"
